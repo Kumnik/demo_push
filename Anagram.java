@@ -1,3 +1,5 @@
+// java program for anagram strings..
+
 import java.util.*;
 class Anagram
 {
